@@ -1,0 +1,6 @@
+*.py[co]
+*.ipynb
+*.exe
+__pycache__
+.cache
+.idea
